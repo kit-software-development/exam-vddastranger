@@ -1,0 +1,9 @@
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\bin\Debug\netcoreapp1.1\Gold_Chat_Core.deps.json
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\bin\Debug\netcoreapp1.1\Gold_Chat_Core.dll
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\bin\Debug\netcoreapp1.1\Gold_Chat_Core.pdb
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\obj\Debug\netcoreapp1.1\Gold_Chat_Core.csprojAssemblyReference.cache
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\obj\Debug\netcoreapp1.1\Gold_Chat_Core.csproj.CoreCompileInputs.cache
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\obj\Debug\netcoreapp1.1\Gold_Chat_Core.AssemblyInfoInputs.cache
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\obj\Debug\netcoreapp1.1\Gold_Chat_Core.AssemblyInfo.cs
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\obj\Debug\netcoreapp1.1\Gold_Chat_Core.dll
+D:\Gold-Chat-master\Gold-Chat\Gold_Chat_Core\obj\Debug\netcoreapp1.1\Gold_Chat_Core.pdb

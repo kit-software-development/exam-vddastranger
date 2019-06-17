@@ -1,0 +1,35 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Sharp_chat\\Chat\\Chat_Dependencies\\Chat_Dependencies.csproj",
+    "projectName": "Chat_Dependencies",
+    "projectPath": "D:\\Sharp_chat\\Chat\\Chat_Dependencies\\Chat_Dependencies.csproj",
+    "outputPath": "D:\\Sharp_chat\\Chat\\Chat_Dependencies\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.1.2, )",
+          "autoReferenced": true
+        }
+      }
+    }
+  }
+}

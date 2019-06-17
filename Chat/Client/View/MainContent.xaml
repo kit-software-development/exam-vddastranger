@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="Client.View.MainContent"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             d:DesignWidth="550"  Height="270">
+    <Grid>
+        <TabControl ItemsSource="{Binding TabControlItems}" SelectedIndex="{Binding SelectedTabControlIndex}" Width="420" Margin="0,0,130,0" SelectionChanged="TabControl_SelectionChanged"/>
+
+        <StackPanel Margin="425,0,0,0" >
+            <Expander Header="online users">
+                <ListBox ItemsSource="{Binding UsersConnected}" SelectedItem="{Binding SelectedUser}" VerticalAlignment="Top" IsSynchronizedWithCurrentItem="True" >
+                    <ListBox.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="{Binding AddFriendHeaderCommand}" Command="{Binding AddFriendHandleCommand}" />
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
+                </ListBox>
+            </Expander>
+            <Expander Header="friend list">
+                <ListBox ItemsSource="{Binding FriendlyUsersConnected}" SelectedItem="{Binding SelectedFriendlyUser}" VerticalAlignment="Top" IsSynchronizedWithCurrentItem="True">
+                    <!--MouseDoubleClick="{Binding PrivateMsgToFriendCommand}"-->
+                    <ListBox.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="{Binding DeleteFriendHeaderCommand}" Command="{Binding DeleteFriendCommand}" />
+                            <MenuItem Header="{Binding PrivMsgHeaderCommand}" Command="{Binding PrivateMsgToFriendCommand}" />
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
+                    <ListBox.ItemContainerStyle>
+                        <Style TargetType="ListBoxItem">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding FriendLoginColor}" Value="true">
+                                    <Setter Property="Background" Value="Green" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding FriendLoginColor}" Value="false">
+                                    <Setter Property="Background" Value="Red" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </ListBox.ItemContainerStyle>
+                </ListBox>
+            </Expander>
+        </StackPanel>
+    </Grid>
+</UserControl>

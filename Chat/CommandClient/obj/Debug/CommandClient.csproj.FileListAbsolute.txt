@@ -1,0 +1,18 @@
+C:\Users\vladd\OneDrive\Рабочий стол\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.csprojAssemblyReference.cache
+C:\Users\vladd\OneDrive\Рабочий стол\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.csproj.CoreCompileInputs.cache
+C:\Users\vladd\OneDrive\Рабочий стол\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.dll
+C:\Users\vladd\OneDrive\Рабочий стол\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.pdb
+C:\Users\vladd\OneDrive\Рабочий стол\Gold-Chat-master\CommandClient.dll
+C:\Users\vladd\OneDrive\Рабочий стол\Gold-Chat-master\CommandClient.pdb
+D:\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.csprojAssemblyReference.cache
+D:\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.csproj.CoreCompileInputs.cache
+D:\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.dll
+D:\Gold-Chat-master\Gold-Chat\CommandClient\obj\Debug\CommandClient.pdb
+D:\Gold-Chat-master\CommandClient.dll
+D:\Gold-Chat-master\CommandClient.pdb
+D:\Sharp_chat\Chat\CommandClient\obj\Debug\CommandClient.csprojAssemblyReference.cache
+D:\Sharp_chat\Chat\CommandClient\obj\Debug\CommandClient.csproj.CoreCompileInputs.cache
+D:\Sharp_chat\Chat\CommandClient\obj\Debug\CommandClient.dll
+D:\Sharp_chat\Chat\CommandClient\obj\Debug\CommandClient.pdb
+D:\Sharp_chat\CommandClient.dll
+D:\Sharp_chat\CommandClient.pdb

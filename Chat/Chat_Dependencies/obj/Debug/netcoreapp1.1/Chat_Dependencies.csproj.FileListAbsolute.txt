@@ -1,0 +1,17 @@
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\bin\Debug\netcoreapp1.1\Chat_Dependencies.deps.json
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\bin\Debug\netcoreapp1.1\Chat_Dependencies.dll
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\bin\Debug\netcoreapp1.1\Chat_Dependencies.pdb
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.csprojAssemblyReference.cache
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.csproj.CoreCompileInputs.cache
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.AssemblyInfo.cs
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.dll
+D:\Gold-Chat-master\Gold-Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.pdb
+D:\Sharp_chat\Chat\Chat_Dependencies\bin\Debug\netcoreapp1.1\Chat_Dependencies.deps.json
+D:\Sharp_chat\Chat\Chat_Dependencies\bin\Debug\netcoreapp1.1\Chat_Dependencies.dll
+D:\Sharp_chat\Chat\Chat_Dependencies\bin\Debug\netcoreapp1.1\Chat_Dependencies.pdb
+D:\Sharp_chat\Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.csprojAssemblyReference.cache
+D:\Sharp_chat\Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.csproj.CoreCompileInputs.cache
+D:\Sharp_chat\Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.AssemblyInfoInputs.cache
+D:\Sharp_chat\Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.AssemblyInfo.cs
+D:\Sharp_chat\Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.dll
+D:\Sharp_chat\Chat\Chat_Dependencies\obj\Debug\netcoreapp1.1\Chat_Dependencies.pdb

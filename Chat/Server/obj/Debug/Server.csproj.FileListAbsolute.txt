@@ -1,0 +1,16 @@
+D:\Gold-Chat-master\Gold-Chat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Gold-Chat-master\Gold-Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Gold-Chat-master\Gold-Chat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Gold-Chat-master\Server.exe.config
+D:\Gold-Chat-master\Gold-Chat\Server\obj\Debug\Server.exe
+D:\Gold-Chat-master\Gold-Chat\Server\obj\Debug\Server.pdb
+D:\Gold-Chat-master\Server.exe
+D:\Gold-Chat-master\Server.pdb
+D:\Sharp_chat\Chat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Sharp_chat\Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Sharp_chat\Chat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Sharp_chat\Server.exe.config
+D:\Sharp_chat\Chat\Server\obj\Debug\Server.exe
+D:\Sharp_chat\Chat\Server\obj\Debug\Server.pdb
+D:\Sharp_chat\Server.exe
+D:\Sharp_chat\Server.pdb
